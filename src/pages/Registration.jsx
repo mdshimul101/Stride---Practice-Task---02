@@ -29,7 +29,7 @@ const Registration = () => {
     <div className="min-h-screen bg-gradient-to-r from-rose-100 via-gray-200 to-teal-50 flex items-center justify-center">
       <div className="bg-white p-8 rounded-lg shadow-md w-96">
         <h2 className="text-center text-3xl font-extrabold text-gray-900 mb-4">
-          Register
+          Registration
         </h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
